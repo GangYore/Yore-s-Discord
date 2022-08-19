@@ -3,6 +3,7 @@
   "description": "a really cool app",
   "version": "1.0.0",
   "engines": {
+  "start": "node bot.js"
     "node": "9.2.1"
   }
 }
