@@ -2,9 +2,6 @@
   "name": "example-app",
   "description": "a really cool app",
   "version": "1.0.0",
-  "main": "bot.js",
-  "scripts": {
-    "start": "node bot.js"
   "engines": {
     "node": "9.2.1"
   },
