@@ -2,10 +2,11 @@
   "name": "Test",
   "description": "Test",
   "version": "0.0.0",
+  "engines": {
+    "node": "9.2.1"
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
-  "node version": "9.2.1",
   },
   "dependencies": {
     "discord.js": "11.1.0",
